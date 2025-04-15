@@ -26,3 +26,4 @@ while True:
     if num_user == num :
         print(f"잘했어요, {name}! {count}번 만에 제 숫자를 맞혔네요!")
         break
+    
