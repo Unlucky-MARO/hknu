@@ -30,7 +30,7 @@ while True:
 
     answer=input()
 
-    if answer.lower() == "yes" :
+    if answer.lower() in "y" :
         continue
-    if answer.lower() == "no" :
+    if answer.lower() in "n" :
         break
