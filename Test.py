@@ -1,2 +1,2 @@
-print("Test")
-print("HELLO")
+first, second = 1, 2
+print(first, second)
